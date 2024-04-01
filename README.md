@@ -1,2 +1,2 @@
-# Estimating-pi-value
+# Darts-and-pi-value-experiment
 Thought experiment for estimating pi value
